@@ -9,9 +9,12 @@
 /tmp
 
 # Ignore other unneeded files.
+database.yml
 doc/
 *.swp
 *~
 .project
+.idea
+.secret
 .DS_Store
 Gemfile.lock
